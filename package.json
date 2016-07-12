@@ -1,0 +1,20 @@
+{
+  "name": "idle_bot",
+  "version": "1.0.0",
+  "main": "idle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=5.6.0"
+  },
+  "author": "collin ferry",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "https://aka.ms/hackathon-builder-npm",
+    "restify": "^4.1.1",
+    "skype-sdk": "file:skype-sdk.tar.gz"
+  },
+  "devDependencies": {},
+  "description": ""
+}
